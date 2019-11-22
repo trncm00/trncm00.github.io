@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Terence's Personal Page</title>
+	<link rel="stylesheet" type="text/css" href="PersonalPage.css">
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/trncm00/trncm00.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+	<header>
+		
+	<nav class="link">
+	<ul>
+	<li><a href="PersonalPage.html">Personal Page</a></li>
+	<li><a href="ColorIndex.html">The Color Viewer</a></li>
+	<li><a href ="Gallery.html">Gallery</a></li>
+	<li><a href="">Project Aim</a></li>
+	<li><a href="WritingPage.html">Writing</a></li>
+		</nav>
+	</ul>
+	</header>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>Oh, well, hello there, I didn't see you come in. My name is Terence Minerbrook, this is my personal page.<br>  
+I am working on learning HTML, CSS and JavaScript and Python and Command Line, BASH stuff on my laptop, which is running on Linux Ubuntu. I am, like many people, am teaching myself to make things, in order to make things.<br>
+I am working on a Color Picker, an Image Gallery, a Blog and a To-Do's page. These are ambitious goals. Consider them a work in progress. 
+I am watching Andrei Inageoi's  "The Complete Web Developer Zero to Mastery", as well as the " Practical JavaScript - Watch & Code " by Gordon Zhu. I also use CodeAcademy and FreeCodeCamp and Weboas.is.<br>
+You will also find that this is the only link to my fiction. I thought it better to formally quarantine one thing from the other.
+</p>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trncm00/trncm00.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+<footer>
+	<h5>This page was written by Terence Minerbrook </h5>
+</footer>
+</html>

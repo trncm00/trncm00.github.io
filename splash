@@ -10,6 +10,10 @@
 
  <!DOCTYPE html>
 <html>
+<head>
+  <title>Terence Minerbrook</title>
+  <link rel="stylesheet" type="text/css" href="splashpage.css">
+</head>
 <body>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

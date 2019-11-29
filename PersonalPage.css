@@ -4,6 +4,7 @@ body
 
 p
 {	color: #fcdbad;
+	position:right;
 	font-family:"times new roman";
 	font-size: 2em;
 	font-weight: 100;
@@ -13,12 +14,13 @@ p
 	height: 400px;
 }
 
-footer{color:#3e71b3;
-	 position: static;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   text-align: center;}
+footer{
+	color:#3e71b3;
+	position: static;
+   	left: 0;
+   	bottom: 0;
+   	width: 100%;
+   	text-align: center;}
 
  /* i think this is the nav bar styling I stole from W3 schools*/
 ul {

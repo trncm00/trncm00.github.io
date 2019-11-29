@@ -1,10 +1,33 @@
+
 body 
-{	background-image:url(StudyArea2.jpg);
-	background-size:cover;}
+{ 
+  background:white;
+  background-size:cover;
+}
+img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+div.header
+{ 
+  background:inherit;
+  color:black;
+  font-size:5em;
+  text-align:center;  }
+div.text
+{ background:inherit;
+  color:black;
+  font-size:2.5em;
+  text-align:center; }
+
+
 
 p
 {	color: #fcdbad;
-	position:right;
 	font-family:"times new roman";
 	font-size: 2em;
 	font-weight: 100;
@@ -12,15 +35,15 @@ p
 	width: 300px; 
 	overflow: auto; 
 	height: 400px;
+
 }
 
-footer{
-	color:#3e71b3;
-	position: static;
-   	left: 0;
-   	bottom: 0;
-   	width: 100%;
-   	text-align: center;}
+footer{color:#3e71b3;
+	 position: static;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;}
 
  /* i think this is the nav bar styling I stole from W3 schools*/
 ul {
@@ -45,7 +68,6 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: rgba(210,41,22,.3);
-} 
-
+  background-color: rgba(256,0,170,.3);
+  text-transform: uppercase;} 
 

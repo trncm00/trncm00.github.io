@@ -1,20 +1,25 @@
 
 body 
-{ 
-    background:white;
+
+{   background-image: url("ceiling-776336.jpg");
     background-size:cover;
 }
 
 img
+
 {
+    background-image: url("ceiling-776336.jpg");
     
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+
+
 }
 
 div.header
+
 { 
     background:inherit;
     color:black;
@@ -22,6 +27,7 @@ div.header
     text-align:center;  }
 
 div.text
+
 { 
     background:inherit;
     color:black;
@@ -77,6 +83,7 @@ li a {
 li a:hover {
     background-color: rgba(256,0,170,.3);
     text-transform: uppercase;
-    color:red;
-    font-style:bold; } 
+    
+    color:white;
+    font-weight:bold; } 
 

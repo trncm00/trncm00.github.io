@@ -6,33 +6,31 @@ body
 }
 
 img
-
-{
-    background-image: url("ceiling-776336.jpg");
-    
+{  
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-
-
 }
 
-div.header
+h1.header
 
 { 
     background:inherit;
     color:black;
-    font-size:5em;
-    text-align:center;  }
+    font-size:15em;
+    text-align:center; 
+    padding-top: 5% }
 
-div.text
+p.text
 
 { 
-    background:inherit;
-    color:black;
+    background:transparent;
+    color:white;
     font-size:2.5em;
-    text-align:center; }
+    text-align:center;
+    text-shadow:1px 2.5px black;
+     }
 
 
 

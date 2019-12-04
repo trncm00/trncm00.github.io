@@ -1,0 +1,69 @@
+body{background: rgba(35, 35, 33,1);}
+nav {text-align:center;}
+h1{color: white;
+   font-size: larger;}
+img{ width:450px;
+	height:300px;
+	margin:10px;}
+
+div img{
+	border: 5px solid white;
+	padding: 5px 5px 5px 5px;
+		
+}
+
+img:hover {width:900px;
+	height:600px;
+	margin:20px ;}
+
+
+
+.link{background-color: rgba(162,170,241,.7);}
+
+.container {
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+  	text-align: center;}
+
+.textStyle{
+	margin:5% 50% 50% 5%;
+	display: inline;}
+
+.boxmodel{
+	border:5px solid white;
+	padding: 5px 5px 5px 5px;}
+
+footer{color:#3e71b3;
+	   position: static;
+	   left: 0;
+       bottom: 0;
+       width: 100%;
+       text-align: center;}
+
+     
+        /* i think this is the nav bar styling I stole from W3 schools*/	
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  background-color: rgba(177,99,37,.2);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: rgba(210,41,22,.3);
+} 
